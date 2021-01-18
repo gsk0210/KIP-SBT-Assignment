@@ -1,7 +1,7 @@
 # KIP-SBT-Assignment
 
 
-This assignment is assigned to Group 5 
+Assignment for Group 5 
 
 - Create a module namely, http.
 - Add library dependency for akka-http and akka-stream in this module.
